@@ -1,0 +1,10 @@
+{
+    "routes": [
+        {
+            "route": "/*",
+            "redirect": "https://www.etsy.com/shop/TheFeatheredCurator",
+            "statusCode": 301
+        }
+    ]
+
+}
